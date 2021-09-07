@@ -9,6 +9,10 @@
     <Authors>John Cao</Authors>
     <Description>Define and parse the command line eaiser.</Description>
     <Copyright>Copyright (c) John Cao</Copyright>
+    <PackageProjectUrl>https://github.com/johncao158/easy.commandline</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/johncao158/easy.commandline</RepositoryUrl>
+    <PackageReleaseNotes>Publish 1.0.0</PackageReleaseNotes>
+    <PackageTags>easy commandline</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
