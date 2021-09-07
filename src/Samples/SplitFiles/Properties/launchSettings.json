@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SplitFiles": {
+      "commandName": "Project",
+      "commandLineArgs": "--pattern=\"DROP.+EXISTS\" --ignore-case -o output input.sql"
+    }
+  }
+}
